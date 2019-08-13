@@ -46,7 +46,6 @@ model.fit(training_images, training_labels, epochs=10, callbacks=[callbacks])
 
 
 
-
 OUTPUT
 
 
