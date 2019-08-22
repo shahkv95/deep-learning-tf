@@ -6,8 +6,6 @@
 
 
 
-
-
 #Classification of Cat and Dog
 
 #wget is used because google colab is built on Debian based Linux OS and it is one of the command used in linux
